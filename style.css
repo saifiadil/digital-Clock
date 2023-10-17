@@ -1,0 +1,57 @@
+
+body{
+    background-color: rgb(198, 41, 41);
+}
+
+
+.main{
+    width: 250px;
+    padding: 10px;
+    height: 160px;
+    border: none;
+    box-shadow: 4px 4px 4px white;
+    margin: auto;
+    background-image: linear-gradient(to bottom, orange, rgb(220, 110, 110), rgb(16, 17, 16));
+}
+#clock p{
+    line-height: 40px;
+    color: rgb(255, 243, 239);
+    font-weight: 900;
+}
+#clock{
+
+width: 200px;
+height: 50px;
+border: 1px solid gray;
+/* margin-top: 20px; */
+margin-left: 25px;
+text-align: center;
+background-color: transparent;
+font-size: 20px;
+color: white;
+text-align: center;
+line-height: 10px;
+font-weight: 900;
+font-variant: small-caps;
+text-transform: uppercase;
+box-shadow: 3px 4px 4px rgb(85, 77, 101);
+border: none;
+
+
+}
+
+
+
+#hours{
+    
+    background-color: transparent;
+    padding: 20px 10px;
+    line-height: 60px;
+    box-shadow: 3px 4px 4px rgb(85, 77, 101);
+   margin-top: -20px;
+    color:white;
+    font-weight: 900;
+    height: 40px;
+}
+
+
